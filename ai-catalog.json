@@ -1,0 +1,37 @@
+{
+  "specVersion": "1.0",
+  "host": {
+    "displayName": "Интеллект-клуб онлайн Динислама Пирбобаева",
+    "identifier": "superjump.uz"
+  },
+  "entries": [
+    {
+      "identifier": "urn:ai:superjump.uz:knowledge:llms-txt",
+      "displayName": "Индекс сайта (llms.txt)",
+      "type": "text/plain",
+      "url": "https://superjump.uz/llms.txt",
+      "description": "Описание сайта и список страниц."
+    },
+    {
+      "identifier": "urn:ai:superjump.uz:knowledge:sitemap",
+      "displayName": "Карта сайта (sitemap.xml)",
+      "type": "application/xml",
+      "url": "https://superjump.uz/sitemap.xml",
+      "description": "Все индексируемые страницы с датами."
+    },
+    {
+      "identifier": "urn:ai:superjump.uz:knowledge:home",
+      "displayName": "Главная страница",
+      "type": "text/html",
+      "url": "https://superjump.uz/",
+      "description": "Клуб онлайн, методика Super Jump и контакты. Сайт на русском языке."
+    },
+    {
+      "identifier": "urn:ai:superjump.uz:knowledge:home-uz",
+      "displayName": "Bosh sahifa (oʻzbekcha)",
+      "type": "text/html",
+      "url": "https://superjump.uz/uz/",
+      "description": "Onlayn klub, Super Jump metodikasi va aloqa. Sayt oʻzbek tilida."
+    }
+  ]
+}
